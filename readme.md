@@ -78,7 +78,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshrithaMaddukuri&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashrithamaddukuri&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" width="90%"/>
 </p>
 
 ---
