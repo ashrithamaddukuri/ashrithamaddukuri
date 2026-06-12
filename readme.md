@@ -101,7 +101,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrithaMaddukuri&theme=tokyonight&bg_color=0D1117&color=00E0FF&line=B77CFF&point=FFFFFF&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrithamaddukuri&theme=tokyonight&bg_color=0D1117&color=00E0FF&line=B77CFF&point=FFFFFF&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -109,7 +109,7 @@
 ### ✨ Visitors Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshrithaMaddukuri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashrithamaddukuri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
