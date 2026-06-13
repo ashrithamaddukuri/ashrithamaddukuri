@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashritha Maddukuri</h1>
 <h3 align="center">Computer Science Undergraduate · Full-Stack & ML Enthusiast · Problem Solver</h3>
 
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 <br/>
 
 - 🎓 B.Tech CSE @ **VRSEC, Vijayawada** | CGPA: **9.16 / 10** (2023 – 2027)
